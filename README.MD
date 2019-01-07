@@ -12,22 +12,22 @@ I have decided to upload the following
 
 * A record of my progress for each language; both the problems solved and the performance of my results
 * Where applicable, a top level prototype of my solution (illustrating the ways in which my solutions are configurable)
-* Unit tests for my code, which include a number of corner cases ** but not the actual question on Project Euler **
+* Unit tests for my code, which include a number of corner cases **but not the actual question on Project Euler**
 
-If you have found this page for recruitment purposes, I will provide source code on request if asked via the private email address you ** should ** have
+If you have found this page for recruitment purposes, I will provide source code on request if asked via the private email address you **should** have
 
 ## The progress
 
-| Problem Number  | Python 3.0 | JS (ES2015 on node) | C++ | Haskell |
-|-----------------|------------|---------------------|-----|---------|
-|        1        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|        2        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|        3        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|        4        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|        5        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|        6        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|        7        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|        8        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|        9        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|       10        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
-|       11        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+| Problem Number  | Python 3.0       | JS (ES2015 on node) | C++              | Haskell          |
+|-----------------|------------------|---------------------|------------------|------------------|
+|        1        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|        2        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|        3        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|        4        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|        5        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|        6        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|        7        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|        8        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|        9        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|       10        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+|       11        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
