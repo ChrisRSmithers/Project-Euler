@@ -20,14 +20,14 @@ If you have found this page for recruitment purposes, I will provide source code
 
 | Problem Number  | Python 3.0 | JS (ES2015 on node) | C++ | Haskell |
 |-----------------|------------|---------------------|-----|---------|
-|        1        |     [x]    |         [x]         |     |         |
-|        2        |     [x]    |         [x]         |     |         |
-|        3        |     [x]    |         [x]         |     |         |
-|        4        |     [x]    |         [x]         |     |         |
-|        5        |     [x]    |         [x]         |     |         |
-|        6        |     [x]    |         [x]         |     |         |
-|        7        |     [x]    |         [x]         |     |         |
-|        8        |     [x]    |         [x]         |     |         |
-|        9        |     [x]    |         [x]         |     |         |
-|       10        |     [x]    |         [x]         |     |         |
-|       11        |     [x]    |         [x]         |     |         |
+|        1        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|        2        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|        3        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|        4        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|        5        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|        6        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|        7        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|        8        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|        9        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|       10        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
+|       11        |     :heavy_check_mark:    |         :heavy_check_mark:         |     |         |
