@@ -12,22 +12,111 @@ I have decided to upload the following
 
 * A record of my progress for each language; both the problems solved and the performance of my results
 * Where applicable, a top level prototype of my solution (illustrating the ways in which my solutions are configurable)
-* Unit tests for my code, which include a number of corner cases **but not the actual question on Project Euler**
+* Unit tests for my code, which include a number of corner cases **but not the actual case that corresponds to Project Euler**
 
 If you have found this page for recruitment purposes, I will provide source code on request if asked via the private email address you **should** have
 
 ## The progress
 
-| Problem Number  | Python 3.0       | JS (ES2015 on node) | C++              | Haskell          |
-|-----------------|------------------|---------------------|------------------|------------------|
-|        1        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|        2        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|        3        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|        4        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|        5        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|        6        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|        7        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|        8        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|        9        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|       10        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
-|       11        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|
+| Problem Number  | Python 3.0       | JS (ES2015 on node) | C++ 11           | Haskell          | C#               |
+|-----------------|------------------|---------------------|------------------|------------------|------------------|
+|        1        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|        2        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|        3        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|        4        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|        5        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|        6        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|        7        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|        8        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|        9        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       10        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       11        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       12        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       13        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       14        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       15        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       16        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       17        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       18        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       19        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       20        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       21        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       22        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       23        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       24        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       25        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       26        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       27        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       28        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       29        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       30        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       31        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       32        |:heavy_check_mark:|:heavy_check_mark:   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|       33        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       34        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       35        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       36        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       37        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       38        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       39        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       40        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       41        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       42        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       43        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       44        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       45        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       46        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       47        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       48        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       49        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       50        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       51        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       52        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       53        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       54        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       55        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       56        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       57        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       58        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       59        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       60        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       61        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       62        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       63        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       64        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       65        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       66        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       67        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       68        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       69        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       70        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       71        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       72        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       73        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       74        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       75        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       76        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       77        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       78        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       79        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       80        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       81        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       82        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       83        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       84        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       85        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       86        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       87        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       88        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       89        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       90        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       91        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       92        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       93        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       94        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       95        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       96        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       97        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       98        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|       99        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
+|      100        |:heavy_check_mark:|:x:                  |:x:               |:x:               |:x:               |
