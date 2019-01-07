@@ -13,12 +13,15 @@ I have decided to upload the following
 * A record of my progress for each language; both the problems solved and the performance of my results
 * Where applicable, a top level prototype of my solution (illustrating the ways in which my solutions are configurable)
 * Unit tests for my code, which include a number of corner cases **but not the actual case that corresponds to Project Euler**
+* In some cases, some util libraries I wrote to help in solving problems (but that by no means solve the problems themselves)
 
-If you have found this page for recruitment purposes, I will provide source code on request if asked via the private email address you **should** have
+If you have found this page for recruitment purposes, I will provide source code on request if asked via the private email address you **should** have.
+
+Generally speaking I solve in Python first and port the solution to other languages. Occasionally things happen differently, but this typically means that the algorithm is identical between solutions in different languages. There are sometimes slightly different solution algorithms for Haskell and C++, but this is the exception rather than the norm.
 
 ## The progress
 
-| Problem Number  | Python 3.0       | JS (ES2015 on node) | C++ 11           | Haskell          | C#               |
+| Problem Number| Python 3.0| JS (ES2015 on node) | C++ 11| Haskell| C#|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -29,63 +32,63 @@ If you have found this page for recruitment purposes, I will provide source code
 |7|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |8|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |9|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|0|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|1|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|3|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|5|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|6|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|7|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|8|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|9|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|0|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|1|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|3|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|5|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|6|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|7|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|8|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|9|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|0|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|1|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|3|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|4|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|5|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|6|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|7|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|8|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|9|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|0|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|1|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|2|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|3|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|4|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|5|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|6|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|7|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|8|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|9|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|0|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|1|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|2|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|3|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|4|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|5|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|6|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|7|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|8|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|9|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|0|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|1|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|2|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|3|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|4|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|5|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|6|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|10|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|11|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|12|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|13|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|14|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|15|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|16|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|17|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|18|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|19|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|20|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|21|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|22|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|23|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|24|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|25|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|26|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|27|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|28|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|29|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|30|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|31|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|32|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|33|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|34|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|35|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|36|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|37|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|38|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|39|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|40|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|41|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|42|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|43|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|44|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|45|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|46|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|47|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|48|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|49|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|50|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|51|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|52|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|53|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|54|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|55|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|56|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|57|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|58|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|59|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|60|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|61|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|62|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|63|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|64|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|65|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|66|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |67|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |68|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |69|:heavy_check_mark:|:x:|:x:|:x:|:x:|
