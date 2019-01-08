@@ -10,7 +10,7 @@ Originally the idea was to showcase my coding ability, as well as learn as much 
 
 I have decided to upload the following
 
-* A record of my progress for each language; both the problems solved and the performance of my results
+* A record of my progress for each language; both the problems solved and the performance of my results (performance statistics aren't in yet but will be soon)
 * Where applicable, a top level prototype of my solution (illustrating the ways in which my solutions are configurable)
 * Unit tests for my code, which include a number of corner cases **but not the actual case that corresponds to Project Euler**
 * In some cases, some util libraries I wrote to help in solving problems (but that by no means solve the problems themselves)
@@ -21,7 +21,7 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 ## The progress
 
-| Problem Number| Python 3.0| JS (ES2015 on node) | C++ 11| Haskell| C#|
+| Problem Number| Python 3.0| JS (on node 10.15.0) | C++ 11| Haskell| C#|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -55,20 +55,20 @@ Generally speaking I solve in Python first and port the solution to other langua
 |30|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |31|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |32|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|33|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|34|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|35|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|36|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|37|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|38|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|39|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|40|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|41|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|42|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|43|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|44|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|45|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|46|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|33|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|34|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|35|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|36|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|37|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|38|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|39|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|40|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|41|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|42|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|
+|43|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|
+|44|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|
+|45|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|
+|46|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|
 |47|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |48|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |49|:heavy_check_mark:|:x:|:x:|:x:|:x:|
@@ -123,3 +123,11 @@ Generally speaking I solve in Python first and port the solution to other langua
 |98|:x:|:x:|:x:|:x:|:x:|
 |99|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |100|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+
+
+## Table Key
+|Symbol|Meaning|
+|:---:|---|
+|:heavy_check_mark:|Solved|
+|:x:|Unsolved|
+|:timer_clock:|Correct answer, but slow|
