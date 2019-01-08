@@ -22,7 +22,7 @@ Generally speaking I solve in Python first and port the solution to other langua
 ## The progress
 
 | Problem Number| Python 3.0| :clock4: | JS on node | :clock4: | C++ 11| Haskell| C#|
-|:---:|:---:|:---:|:---|:---:|:---:|:---:|
+|:---:|:---:|:---|:---:|:---|:---:|:---:|:---:|
 |1|:heavy_check_mark:|`0.102s`|:heavy_check_mark: |`1ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2|:heavy_check_mark:|`0.137s`|:heavy_check_mark: |`0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |3|:heavy_check_mark:|`0.680s`|:heavy_check_mark: |`0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
