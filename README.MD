@@ -21,18 +21,18 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 ## The progress
 
-| Problem Number| Python 3.0| JS (on node 10.15.0) | C++ 11| Haskell| C#|
+| Problem Number| Python 3.0| JS on node | C++ 11| Haskell| C#|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|:heavy_check_mark:|:heavy_check_mark: '1ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2|:heavy_check_mark:|:heavy_check_mark: '0ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|3|:heavy_check_mark:|:heavy_check_mark: '0ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|4|:heavy_check_mark:|:heavy_check_mark: '43ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|5|:heavy_check_mark:|:heavy_check_mark: '0ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|6|:heavy_check_mark:|:heavy_check_mark: '0ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|7|:heavy_check_mark:|:heavy_check_mark: '24ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|8|:heavy_check_mark:|:heavy_check_mark: '1ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|9|:heavy_check_mark:|:heavy_check_mark: '2ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|10|:heavy_check_mark:|:heavy_check_mark: '358ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|1|:heavy_check_mark:|:heavy_check_mark: `1ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2|:heavy_check_mark:|:heavy_check_mark: `0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|3|:heavy_check_mark:|:heavy_check_mark: `0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|4|:heavy_check_mark:|:heavy_check_mark: `43ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|5|:heavy_check_mark:|:heavy_check_mark: `0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|6|:heavy_check_mark:|:heavy_check_mark: `0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|7|:heavy_check_mark:|:heavy_check_mark: `24ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|8|:heavy_check_mark:|:heavy_check_mark: `1ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|9|:heavy_check_mark:|:heavy_check_mark: `2ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|10|:heavy_check_mark:|:heavy_check_mark: `358ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |11|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |12|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |13|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
