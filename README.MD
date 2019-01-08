@@ -23,16 +23,16 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 | Problem Number| Python 3.0| JS (on node 10.15.0) | C++ 11| Haskell| C#|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|3|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|4|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|5|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|6|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|7|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|8|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|9|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|10|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|1|:heavy_check_mark:|:heavy_check_mark: '1ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2|:heavy_check_mark:|:heavy_check_mark: '0ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|3|:heavy_check_mark:|:heavy_check_mark: '0ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|4|:heavy_check_mark:|:heavy_check_mark: '43ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|5|:heavy_check_mark:|:heavy_check_mark: '0ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|6|:heavy_check_mark:|:heavy_check_mark: '0ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|7|:heavy_check_mark:|:heavy_check_mark: '24ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|8|:heavy_check_mark:|:heavy_check_mark: '1ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|9|:heavy_check_mark:|:heavy_check_mark: '2ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|10|:heavy_check_mark:|:heavy_check_mark: '358ms'|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |11|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |12|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |13|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -131,3 +131,17 @@ Generally speaking I solve in Python first and port the solution to other langua
 |:heavy_check_mark:|Solved|
 |:x:|Unsolved|
 |:timer_clock:|Correct answer, but slow|
+
+## Timing details
+
+Below are the details of how timing is obtained for each language. ** Languages cannot, in any meaningful sense, be compared with each other! **. The purpose of the timing is mostly to identify outliers which are taking longer than desired and to compare solutions to different problems within the same language.
+
+### Javascript
+For Javascript, we are using nodeJS. We obtain timing with snippets similar to the following
+```
+  console.time('Test 1');
+  let ans = euler001();
+  console.timeEnd('Test 1');
+```
+
+The result of this is a timing in whole milliseconds, including a value of 0
