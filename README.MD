@@ -33,16 +33,16 @@ Generally speaking I solve in Python first and port the solution to other langua
 |8|:heavy_check_mark:|`0.237s`|:heavy_check_mark: |`1ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |9|:heavy_check_mark:|`0.384s`|:heavy_check_mark: |`2ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |10|:heavy_check_mark:|`1.708s`|:heavy_check_mark: |`358ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|11|:heavy_check_mark:|`0.163s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|12|:timer_clock:|`22.839s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|13|:heavy_check_mark:|`0.212s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|14|:heavy_check_mark:|`2.050s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|15|:heavy_check_mark:|`13.668`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|16|:heavy_check_mark:|`0.120s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|17|:heavy_check_mark:|`0.121s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|18|:heavy_check_mark:|`0.183s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|19|:heavy_check_mark:|`0.076s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|20|:heavy_check_mark:|`0.079s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|11|:heavy_check_mark:|`0.163s`|:heavy_check_mark:|`1ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|12|:timer_clock:|`22.839s`|:heavy_check_mark:|`3921ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|13|:heavy_check_mark:|`0.212s`|:heavy_check_mark:|`0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|14|:heavy_check_mark:|`2.050s`|:heavy_check_mark:|`1057ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|15|:heavy_check_mark:|`13.668`|:heavy_check_mark:|`0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|16|:heavy_check_mark:|`0.120s`|:heavy_check_mark:|`10ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|17|:heavy_check_mark:|`0.121s`|:heavy_check_mark:|`1ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|18|:heavy_check_mark:|`0.183s`|:heavy_check_mark:|`0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|19|:heavy_check_mark:|`0.076s`|:heavy_check_mark:|`1ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|20|:heavy_check_mark:|`0.079s`|:heavy_check_mark:|`0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |21|:heavy_check_mark:|`0.129s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |22|:heavy_check_mark:|`0.115s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |23|:heavy_check_mark:|`7.180s`|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
