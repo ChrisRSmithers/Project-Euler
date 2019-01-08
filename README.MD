@@ -21,7 +21,7 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 ## The progress
 
-| Problem Number| Python 3.0| :clock4: | JS on node | :clock4: | C++ 11| Haskell| C#|
+| Problem Number| Python 3.0| :stopwatch: | JS on node | :stopwatch: | C++ 11| Haskell| C#|
 |:---:|:---:|:---|:---:|:---|:---:|:---:|:---:|
 |1|:heavy_check_mark:|`0.102s`|:heavy_check_mark: |`1ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2|:heavy_check_mark:|`0.137s`|:heavy_check_mark: |`0ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -134,13 +134,13 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 ## Timing details
 
-Below are the details of how timing is obtained for each language. ** Languages cannot, in any meaningful sense, be compared with each other! **. The purpose of the timing is mostly to identify outliers which are taking longer than desired and to compare solutions to different problems within the same language.
+Below are the details of how timing is obtained for each language. **Languages cannot, in any meaningful sense, be compared with each other!** The purpose of the timing is mostly to identify outliers which are taking longer than desired and to compare solutions to different problems within the same language.
 
 ### Python
 
 My solutions are invoked in bash, and so timing is obtained using `time` like the following
 ```
-> time python Euler0001.py
+> time python Euler001.py
 ```
 
 From which we use the real value outputted like the example below
@@ -152,7 +152,7 @@ sys     0m0.015s
 ```
 
 ### Javascript
-For Javascript, we are using nodeJS. We obtain timing with snippets similar to the following
+For Javascript, we are using nodeJS. We obtain timing with snippets similar to the following while running the Jest test suite
 ```
   console.time('Test 1');
   let ans = euler001();
