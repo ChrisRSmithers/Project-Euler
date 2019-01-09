@@ -23,106 +23,106 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 | Problem Number| Python 3.0| :stopwatch: | JS on node | :stopwatch: | C++ 11| Haskell| C#|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1  |:heavy_check_mark:|`0.102s`  |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2  |:heavy_check_mark:|`0.137s`  |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|3  |:heavy_check_mark:|`0.680s`  |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|4  |:heavy_check_mark:|`0.197s`  |:heavy_check_mark:|`43ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|5  |:heavy_check_mark:|`0.117s`  |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|6  |:heavy_check_mark:|`0.105s`  |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|7  |:heavy_check_mark:|`0.191s`  |:heavy_check_mark:|`24ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|8  |:heavy_check_mark:|`0.237s`  |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|9  |:heavy_check_mark:|`0.384s`  |:heavy_check_mark:|`2ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|10 |:heavy_check_mark:|`1.708s`  |:heavy_check_mark:|`358ms` |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|11 |:heavy_check_mark:|`0.163s`  |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|12 |:timer_clock:     |`22.839s` |:heavy_check_mark:|`3921ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|13 |:heavy_check_mark:|`0.212s`  |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|14 |:heavy_check_mark:|`2.050s`  |:heavy_check_mark:|`1057ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|15 |:heavy_check_mark:|`13.668`  |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|16 |:heavy_check_mark:|`0.120s`  |:heavy_check_mark:|`10ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|17 |:heavy_check_mark:|`0.121s`  |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|18 |:heavy_check_mark:|`0.183s`  |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|19 |:heavy_check_mark:|`0.076s`  |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|20 |:heavy_check_mark:|`0.079s`  |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|21 |:heavy_check_mark:|`0.129s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|22 |:heavy_check_mark:|`0.115s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|23 |:heavy_check_mark:|`7.180s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|24 |:heavy_check_mark:|`0.101s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|25 |:heavy_check_mark:|`0.106s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|26 |:heavy_check_mark:|`0.314s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|27 |:heavy_check_mark:|`5.631s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|28 |:heavy_check_mark:|`0.106s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|29 |:heavy_check_mark:|`0.105s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|30 |:heavy_check_mark:|`4.126s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|31 |:heavy_check_mark:|`0.157s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|32 |:timer_clock:     |`22.057s` |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|33 |:heavy_check_mark:|`0.318s`  |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
-|34 |:heavy_check_mark:|`6.775s`  |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
-|35 |:heavy_check_mark:|`0.983s`  |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
-|36 |:heavy_check_mark:|`0.767s`  |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
-|37 |:heavy_check_mark:|`2.539s`  |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
-|38 |:heavy_check_mark:|`0.190s`  |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
-|39 |:timer_clock:     |`29.828s` |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
-|40 |:heavy_check_mark:|`0.441s`  |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
-|41 |:heavy_check_mark:|`7.033s`  |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
-|42 |:heavy_check_mark:|`0.185s`  |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
-|43 |:heavy_check_mark:|`5.334s`  |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
-|44 |:heavy_check_mark:|`0.092s`  |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
-|45 |:heavy_check_mark:|`0.139s`  |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
-|46 |:heavy_check_mark:|`0.266s`  |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
-|47 |:timer_clock:     |`1m9.645s`|:x:               |        |:x:               |:x:               |:x:               |
-|48 |:heavy_check_mark:|`0.111s`  |:x:               |        |:x:               |:x:               |:x:               |
-|49 |:heavy_check_mark:|`1.066s`  |:x:               |        |:x:               |:x:               |:x:               |
-|50 |:timer_clock:     |`5m24.745`|:x:               |        |:x:               |:x:               |:x:               |
-|51 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|52 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|53 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|54 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|55 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|56 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|57 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|58 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|59 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|60 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|61 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|62 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|63 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|64 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|65 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|66 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|67 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|68 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|69 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|70 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|71 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|72 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|73 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|74 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|75 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|76 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|77 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|78 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|79 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|80 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|81 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|82 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|83 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|84 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|85 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|86 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|87 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|88 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|89 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|90 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|91 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|92 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|93 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|94 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|95 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|96 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|97 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|98 |:x:               |          |:x:               |        |:x:               |:x:               |:x:               |
-|99 |:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
-|100|:heavy_check_mark:|          |:x:               |        |:x:               |:x:               |:x:               |
+|1  |:heavy_check_mark:|`0.102s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2  |:heavy_check_mark:|`0.137s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|3  |:heavy_check_mark:|`0.680s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|4  |:heavy_check_mark:|`0.197s`   |:heavy_check_mark:|`43ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|5  |:heavy_check_mark:|`0.117s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|6  |:heavy_check_mark:|`0.105s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|7  |:heavy_check_mark:|`0.191s`   |:heavy_check_mark:|`24ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|8  |:heavy_check_mark:|`0.237s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|9  |:heavy_check_mark:|`0.384s`   |:heavy_check_mark:|`2ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|10 |:heavy_check_mark:|`1.708s`   |:heavy_check_mark:|`358ms` |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|11 |:heavy_check_mark:|`0.163s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|12 |:timer_clock:     |`22.839s`  |:heavy_check_mark:|`3921ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|13 |:heavy_check_mark:|`0.212s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|14 |:heavy_check_mark:|`2.050s`   |:heavy_check_mark:|`1057ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|15 |:heavy_check_mark:|`13.668`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|16 |:heavy_check_mark:|`0.120s`   |:heavy_check_mark:|`10ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|17 |:heavy_check_mark:|`0.121s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|18 |:heavy_check_mark:|`0.183s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|19 |:heavy_check_mark:|`0.076s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|20 |:heavy_check_mark:|`0.079s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|21 |:heavy_check_mark:|`0.129s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|22 |:heavy_check_mark:|`0.115s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|23 |:heavy_check_mark:|`7.180s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|24 |:heavy_check_mark:|`0.101s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|25 |:heavy_check_mark:|`0.106s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|26 |:heavy_check_mark:|`0.314s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|27 |:heavy_check_mark:|`5.631s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|28 |:heavy_check_mark:|`0.106s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|29 |:heavy_check_mark:|`0.105s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|30 |:heavy_check_mark:|`4.126s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|31 |:heavy_check_mark:|`0.157s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|32 |:timer_clock:     |`22.057s`  |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|33 |:heavy_check_mark:|`0.318s`   |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
+|34 |:heavy_check_mark:|`6.775s`   |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
+|35 |:heavy_check_mark:|`0.983s`   |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
+|36 |:heavy_check_mark:|`0.767s`   |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
+|37 |:heavy_check_mark:|`2.539s`   |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
+|38 |:heavy_check_mark:|`0.190s`   |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
+|39 |:timer_clock:     |`29.828s`  |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
+|40 |:heavy_check_mark:|`0.441s`   |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
+|41 |:heavy_check_mark:|`7.033s`   |:heavy_check_mark:|        |:heavy_check_mark:|:x:               |:x:               |
+|42 |:heavy_check_mark:|`0.185s`   |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
+|43 |:heavy_check_mark:|`5.334s`   |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
+|44 |:heavy_check_mark:|`0.092s`   |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
+|45 |:heavy_check_mark:|`0.139s`   |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
+|46 |:heavy_check_mark:|`0.266s`   |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
+|47 |:timer_clock:     |`1m9.645s` |:x:               |        |:x:               |:x:               |:x:               |
+|48 |:heavy_check_mark:|`0.111s`   |:x:               |        |:x:               |:x:               |:x:               |
+|49 |:heavy_check_mark:|`1.066s`   |:x:               |        |:x:               |:x:               |:x:               |
+|50 |:timer_clock:     |`5m24.745` |:x:               |        |:x:               |:x:               |:x:               |
+|51 |:heavy_check_mark:|`1m22.811s`|:x:               |        |:x:               |:x:               |:x:               |
+|52 |:heavy_check_mark:|`0.395s`   |:x:               |        |:x:               |:x:               |:x:               |
+|53 |:heavy_check_mark:|`0.347s`   |:x:               |        |:x:               |:x:               |:x:               |
+|54 |:heavy_check_mark:|`0.113s`   |:x:               |        |:x:               |:x:               |:x:               |
+|55 |:heavy_check_mark:|`0.153s`   |:x:               |        |:x:               |:x:               |:x:               |
+|56 |:heavy_check_mark:|`0.300s`   |:x:               |        |:x:               |:x:               |:x:               |
+|57 |:heavy_check_mark:|`0.117s`   |:x:               |        |:x:               |:x:               |:x:               |
+|58 |:heavy_check_mark:|`0.421s`   |:x:               |        |:x:               |:x:               |:x:               |
+|59 |:heavy_check_mark:|`20.078s`  |:x:               |        |:x:               |:x:               |:x:               |
+|60 |:timer_clock:     |`1m11.587s`|:x:               |        |:x:               |:x:               |:x:               |
+|61 |:heavy_check_mark:|`0.183s`   |:x:               |        |:x:               |:x:               |:x:               |
+|62 |:heavy_check_mark:|`0.122s`   |:x:               |        |:x:               |:x:               |:x:               |
+|63 |:heavy_check_mark:|`0.109s`   |:x:               |        |:x:               |:x:               |:x:               |
+|64 |:heavy_check_mark:|`0.293s`   |:x:               |        |:x:               |:x:               |:x:               |
+|65 |:heavy_check_mark:|`0.166s`   |:x:               |        |:x:               |:x:               |:x:               |
+|66 |:heavy_check_mark:|`0.136s`   |:x:               |        |:x:               |:x:               |:x:               |
+|67 |:heavy_check_mark:|`0.135s`   |:x:               |        |:x:               |:x:               |:x:               |
+|68 |:heavy_check_mark:|`2.440s`   |:x:               |        |:x:               |:x:               |:x:               |
+|69 |:heavy_check_mark:|`0.139s`   |:x:               |        |:x:               |:x:               |:x:               |
+|70 |:heavy_check_mark:|`0.083s`   |:x:               |        |:x:               |:x:               |:x:               |
+|71 |:heavy_check_mark:|`0.507s`   |:x:               |        |:x:               |:x:               |:x:               |
+|72 |:heavy_check_mark:|`1.561s`   |:x:               |        |:x:               |:x:               |:x:               |
+|73 |:heavy_check_mark:|`18.048s`  |:x:               |        |:x:               |:x:               |:x:               |
+|74 |:heavy_check_mark:|`3.435s`   |:x:               |        |:x:               |:x:               |:x:               |
+|75 |:heavy_check_mark:|`0.942s`   |:x:               |        |:x:               |:x:               |:x:               |
+|76 |:heavy_check_mark:|`0.144s`   |:x:               |        |:x:               |:x:               |:x:               |
+|77 |:heavy_check_mark:|`0.139s`   |:x:               |        |:x:               |:x:               |:x:               |
+|78 |:heavy_check_mark:|`7.184s`   |:x:               |        |:x:               |:x:               |:x:               |
+|79 |:heavy_check_mark:|`0.098s`   |:x:               |        |:x:               |:x:               |:x:               |
+|80 |:heavy_check_mark:|`2.554s`   |:x:               |        |:x:               |:x:               |:x:               |
+|81 |:heavy_check_mark:|`0.180s`   |:x:               |        |:x:               |:x:               |:x:               |
+|82 |:heavy_check_mark:|`0.187s`   |:x:               |        |:x:               |:x:               |:x:               |
+|83 |:heavy_check_mark:|`0.370s`   |:x:               |        |:x:               |:x:               |:x:               |
+|84 |:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
+|85 |:heavy_check_mark:|`0.113s`   |:x:               |        |:x:               |:x:               |:x:               |
+|86 |:heavy_check_mark:|`6.597s`   |:x:               |        |:x:               |:x:               |:x:               |
+|87 |:heavy_check_mark:|`2.165s`   |:x:               |        |:x:               |:x:               |:x:               |
+|88 |:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
+|89 |:heavy_check_mark:|`0.136s`   |:x:               |        |:x:               |:x:               |:x:               |
+|90 |:heavy_check_mark:|`0.305s`   |:x:               |        |:x:               |:x:               |:x:               |
+|91 |:heavy_check_mark:|`3.801s`   |:x:               |        |:x:               |:x:               |:x:               |
+|92 |:timer_clock:     |`49.127s`  |:x:               |        |:x:               |:x:               |:x:               |
+|93 |:heavy_check_mark:|`3.074s`   |:x:               |        |:x:               |:x:               |:x:               |
+|94 |:heavy_check_mark:|`0.090s`   |:x:               |        |:x:               |:x:               |:x:               |
+|95 |:heavy_check_mark:|`5.799s`   |:x:               |        |:x:               |:x:               |:x:               |
+|96 |:x:          |           |:x:               |        |:x:               |:x:               |:x:               |
+|97 |:heavy_check_mark:|`0.086s`   |:x:               |        |:x:               |:x:               |:x:               |
+|98 |:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
+|99 |:heavy_check_mark:|`0.114s`   |:x:               |        |:x:               |:x:               |:x:               |
+|100|:heavy_check_mark:|`0.116s`   |:x:               |        |:x:               |:x:               |:x:               |
 
 
 ## Table Key
