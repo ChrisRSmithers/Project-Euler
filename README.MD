@@ -21,7 +21,7 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 ## The progress
 
-| Problem Number|<img src="/Logos/python.png" width="50" height="50">| :stopwatch: | JS on node | :stopwatch: | C++ 11| Haskell| C#|
+| Problem Number|<img src="/Logos/python.png" width="65" height="65">| :stopwatch: |<img src="/Logos/node.png" width="100" height="65">| :stopwatch: | C++ 11|<img src="/Logos/haskell.svg" width="65" height="65">| C#|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1  |:heavy_check_mark:|`0.102s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2  |:heavy_check_mark:|`0.137s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
