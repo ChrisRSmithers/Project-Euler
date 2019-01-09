@@ -69,11 +69,11 @@ Generally speaking I solve in Python first and port the solution to other langua
 |44 |:heavy_check_mark:|`0.092s`   |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
 |45 |:heavy_check_mark:|`0.139s`   |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
 |46 |:heavy_check_mark:|`0.266s`   |:heavy_check_mark:|        |:x:               |:x:               |:x:               |
-|47 |:timer_clock:     |`1m9.645s` |:x:               |        |:x:               |:x:               |:x:               |
+|47 |:timer_clock:     |`1m 9.64s` |:x:               |        |:x:               |:x:               |:x:               |
 |48 |:heavy_check_mark:|`0.111s`   |:x:               |        |:x:               |:x:               |:x:               |
 |49 |:heavy_check_mark:|`1.066s`   |:x:               |        |:x:               |:x:               |:x:               |
-|50 |:timer_clock:     |`5m24.745` |:x:               |        |:x:               |:x:               |:x:               |
-|51 |:heavy_check_mark:|`1m22.811s`|:x:               |        |:x:               |:x:               |:x:               |
+|50 |:timer_clock:     |`5m 24.74` |:x:               |        |:x:               |:x:               |:x:               |
+|51 |:heavy_check_mark:|`1m 22.81s`|:x:               |        |:x:               |:x:               |:x:               |
 |52 |:heavy_check_mark:|`0.395s`   |:x:               |        |:x:               |:x:               |:x:               |
 |53 |:heavy_check_mark:|`0.347s`   |:x:               |        |:x:               |:x:               |:x:               |
 |54 |:heavy_check_mark:|`0.113s`   |:x:               |        |:x:               |:x:               |:x:               |
@@ -82,7 +82,7 @@ Generally speaking I solve in Python first and port the solution to other langua
 |57 |:heavy_check_mark:|`0.117s`   |:x:               |        |:x:               |:x:               |:x:               |
 |58 |:heavy_check_mark:|`0.421s`   |:x:               |        |:x:               |:x:               |:x:               |
 |59 |:heavy_check_mark:|`20.078s`  |:x:               |        |:x:               |:x:               |:x:               |
-|60 |:timer_clock:     |`1m11.587s`|:x:               |        |:x:               |:x:               |:x:               |
+|60 |:timer_clock:     |`1m 11.58s`|:x:               |        |:x:               |:x:               |:x:               |
 |61 |:heavy_check_mark:|`0.183s`   |:x:               |        |:x:               |:x:               |:x:               |
 |62 |:heavy_check_mark:|`0.122s`   |:x:               |        |:x:               |:x:               |:x:               |
 |63 |:heavy_check_mark:|`0.109s`   |:x:               |        |:x:               |:x:               |:x:               |
@@ -118,7 +118,7 @@ Generally speaking I solve in Python first and port the solution to other langua
 |93 |:heavy_check_mark:|`3.074s`   |:x:               |        |:x:               |:x:               |:x:               |
 |94 |:heavy_check_mark:|`0.090s`   |:x:               |        |:x:               |:x:               |:x:               |
 |95 |:heavy_check_mark:|`5.799s`   |:x:               |        |:x:               |:x:               |:x:               |
-|96 |:x:          |           |:x:               |        |:x:               |:x:               |:x:               |
+|96 |:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
 |97 |:heavy_check_mark:|`0.086s`   |:x:               |        |:x:               |:x:               |:x:               |
 |98 |:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
 |99 |:heavy_check_mark:|`0.114s`   |:x:               |        |:x:               |:x:               |:x:               |
