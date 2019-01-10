@@ -21,7 +21,7 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 ## The progress
 
-| Problem Number|<img src="/Logos/python.png" width="65" height="65">| :stopwatch: |<img src="/Logos/node.png" width="100" height="65">| :stopwatch: | C++ 11|<img src="/Logos/haskell.svg" width="65" height="65">| C#|
+| Problem Number|<img src="/Logos/python.png" width="32" height="32">| :stopwatch: |<img src="/Logos/node.png" width="50" height="32">| :stopwatch: | C++ 11|<img src="/Logos/haskell.svg" width="32" height="32">| C#|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1  |:heavy_check_mark:|`0.102s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2  |:heavy_check_mark:|`0.137s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -123,6 +123,13 @@ Generally speaking I solve in Python first and port the solution to other langua
 |98 |:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
 |99 |:heavy_check_mark:|`0.114s`   |:x:               |        |:x:               |:x:               |:x:               |
 |100|:heavy_check_mark:|`0.116s`   |:x:               |        |:x:               |:x:               |:x:               |
+|101|:heavy_check_mark:|`0.085s`   |:x:               |        |:x:               |:x:               |:x:               |
+|102|:heavy_check_mark:|`0.104s`   |:x:               |        |:x:               |:x:               |:x:               |
+|103|:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
+|104|:heavy_check_mark:|`0.728s`   |:x:               |        |:x:               |:x:               |:x:               |
+|105|:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
+|106|:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
+|107|:heavy_check_mark:|`0.111s`   |:x:               |        |:x:               |:x:               |:x:               |
 
 
 ## Table Key
