@@ -145,6 +145,10 @@ Generally speaking I solve in Python first and port the solution to other langua
 |120|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
 |121|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
 |122|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|123|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|124|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|125|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|126|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
 
 
 
