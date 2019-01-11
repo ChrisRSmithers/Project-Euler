@@ -130,6 +130,22 @@ Generally speaking I solve in Python first and port the solution to other langua
 |105|:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
 |106|:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
 |107|:heavy_check_mark:|`0.111s`   |:x:               |        |:x:               |:x:               |:x:               |
+|108|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|109|:x:               |           |:x:               |        |:x:               |:x:               |:x:               |
+|110|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|111|:heavy_check_mark:|`0.188s`   |:x:               |        |:x:               |:x:               |:x:               |
+|112|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|113|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|114|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|115|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|116|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|117|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|118|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|119|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|120|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|121|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+|122|:heavy_check_mark:|           |:x:               |        |:x:               |:x:               |:x:               |
+
 
 
 ## Table Key
