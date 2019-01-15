@@ -23,11 +23,11 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 | Problem Number|<img src="/Logos/python.png" width="32" height="32">| :stopwatch: |<img src="/Logos/node.png" width="50" height="32">| :stopwatch: | C++ 11|<img src="/Logos/haskell.svg" width="32" height="32">| C#|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1  |:heavy_check_mark:|`0.102s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2  |:heavy_check_mark:|`0.137s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|3  |:heavy_check_mark:|`0.680s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|4  |:heavy_check_mark:|`0.197s`   |:heavy_check_mark:|`43ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|5  |:heavy_check_mark:|`0.117s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|1  |:white_circle::white_circle::white_circle::white_circle:|`0.102s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2  |:red_circle::white_circle::white_circle::white_circle:|`0.137s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|3  |:red_circle::red_circle::white_circle::white_circle:|`0.680s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|4  |:large_blue_circle::large_blue_circle::large_blue_circle::white_circle:|`0.197s`   |:heavy_check_mark:|`43ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|5  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.117s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |6  |:heavy_check_mark:|`0.105s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |7  |:heavy_check_mark:|`0.191s`   |:heavy_check_mark:|`24ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |8  |:heavy_check_mark:|`0.237s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
