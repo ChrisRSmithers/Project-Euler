@@ -164,6 +164,7 @@ Generally speaking I solve in Python first and port the solution to other langua
 I am planning to integrate some hackerrank scores for ProjectEuler+. In the future, the following table will give the score
 
 |Symbol|Meaning|
+|:---:|:---:|
 |:white_circle::white_circle::white_circle::white_circle:|0% - 24% (Including 0% but Project Euler correct)|
 |:red_circle::white_circle::white_circle::white_circle:|25% - 49%|
 |:red_circle::red_circle::white_circle::white_circle:|50% - 74%|
