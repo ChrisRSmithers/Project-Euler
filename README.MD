@@ -23,18 +23,18 @@ Generally speaking I solve in Python first and port the solution to other langua
 
 | Problem Number|<img src="/Logos/python.png" width="32" height="32">| :stopwatch: |<img src="/Logos/node.png" width="50" height="32">| :stopwatch: | C++ 11|<img src="/Logos/haskell.svg" width="32" height="32">| C#|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1  |:heavy_check_mark:|`0.102s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2  |:heavy_check_mark:|`0.137s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|3  |:heavy_check_mark:|`0.680s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|4  |:heavy_check_mark:|`0.197s`   |:heavy_check_mark:|`43ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|5  |:heavy_check_mark:|`0.117s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|6  |:heavy_check_mark:|`0.105s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|7  |:heavy_check_mark:|`0.191s`   |:heavy_check_mark:|`24ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|8  |:heavy_check_mark:|`0.237s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|9  |:heavy_check_mark:|`0.384s`   |:heavy_check_mark:|`2ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|10 |:heavy_check_mark:|`1.708s`   |:heavy_check_mark:|`358ms` |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|11 |:heavy_check_mark:|`0.163s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|12 |:timer_clock:     |`22.839s`  |:heavy_check_mark:|`3921ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|1  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.102s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.137s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|3  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.680s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|4  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.197s`   |:heavy_check_mark:|`43ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|5  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.117s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|6  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.105s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|7  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.191s`   |:heavy_check_mark:|`24ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|8  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.237s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|9  |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.384s`   |:heavy_check_mark:|`2ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|10 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`1.708s`   |:heavy_check_mark:|`358ms` |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|11 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.163s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|12 |:large_blue_circle::large_blue_circle::large_blue_circle::white_circle:|`22.839s`  |:heavy_check_mark:|`3921ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |13 |:heavy_check_mark:|`0.212s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |14 |:heavy_check_mark:|`2.050s`   |:heavy_check_mark:|`1057ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |15 |:heavy_check_mark:|`13.668`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -168,7 +168,7 @@ I am planning to integrate some hackerrank scores for ProjectEuler+. In the futu
 |:white_circle::white_circle::white_circle::white_circle:|0% - 24% (Including 0% but Project Euler correct)|
 |:red_circle::white_circle::white_circle::white_circle:|25% - 49%|
 |:red_circle::red_circle::white_circle::white_circle:|50% - 74%|
-|:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|75% - 99%|
+|:large_blue_circle::large_blue_circle::large_blue_circle::white_circle:|75% - 99%|
 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|100% only|
 
 ## Timing details
