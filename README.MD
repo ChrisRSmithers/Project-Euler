@@ -2,6 +2,8 @@
 
 This repository is to track my progress on the problems from [Project Euler](https://projecteuler.net/) across a number of different languages.
 
+![Project Euler Badge](https://projecteuler.net/profile/CRSmithers.png)
+
 ## What isn't this repo?
 
 Originally the idea was to showcase my coding ability, as well as learn as much as possible. I had previously published my actual code and results without realising the explicit prohibiting of this by Project Euler. Project Euler is a fantastic resource for problems for budding mathematicians and software engineers (and pretty much everyone!) and, whilst I am clearly under no legal obligation to do so, I have decided to refrain from publishing results. You will not find any answers, nor the means to find them in this repo.
