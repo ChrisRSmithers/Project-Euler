@@ -37,8 +37,8 @@ Generally speaking I solve in Python first and port the solution to other langua
 |10 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`1.708s`   |:heavy_check_mark:|`358ms` |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |11 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.163s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |12 |:large_blue_circle::large_blue_circle::large_blue_circle::white_circle:|`22.839s`  |:heavy_check_mark:|`3921ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|13 |:heavy_check_mark:|`0.212s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|14 |:heavy_check_mark:|`2.050s`   |:heavy_check_mark:|`1057ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|13 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.212s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|14 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`2.050s`   |:heavy_check_mark:|`1057ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |15 |:heavy_check_mark:|`13.668`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |16 |:heavy_check_mark:|`0.120s`   |:heavy_check_mark:|`10ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |17 |:heavy_check_mark:|`0.121s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
