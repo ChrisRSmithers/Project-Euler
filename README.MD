@@ -39,10 +39,10 @@ Generally speaking I solve in Python first and port the solution to other langua
 |12 |:large_blue_circle::large_blue_circle::large_blue_circle::white_circle:|`22.839s`  |:heavy_check_mark:|`3921ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |13 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.212s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |14 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`2.050s`   |:heavy_check_mark:|`1057ms`|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|15 |:heavy_check_mark:|`13.668`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|16 |:heavy_check_mark:|`0.120s`   |:heavy_check_mark:|`10ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|17 |:heavy_check_mark:|`0.121s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|18 |:heavy_check_mark:|`0.183s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|15 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`13.668`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|16 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.120s`   |:heavy_check_mark:|`10ms`  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|17 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.121s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|18 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.183s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |19 |:heavy_check_mark:|`0.076s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |20 |:heavy_check_mark:|`0.079s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |21 |:heavy_check_mark:|`0.129s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
