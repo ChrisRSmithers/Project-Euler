@@ -50,7 +50,7 @@ Generally speaking I solve in Python first and port the solution to other langua
 |23 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`7.180s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |24 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.101s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |25 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.106s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|26 |:heavy_check_mark:|`0.314s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|26 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.314s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |27 |:heavy_check_mark:|`5.631s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |28 |:heavy_check_mark:|`0.106s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |29 |:heavy_check_mark:|`0.105s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
