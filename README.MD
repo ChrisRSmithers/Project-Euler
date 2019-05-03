@@ -44,8 +44,8 @@ Generally speaking I solve in Python first and port the solution to other langua
 |17 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.121s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |18 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.183s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |19 |:heavy_check_mark:|`0.076s`   |:heavy_check_mark:|`1ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|20 |:heavy_check_mark:|`0.079s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|21 |:heavy_check_mark:|`0.129s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|20 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.079s`   |:heavy_check_mark:|`0ms`   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|21 |:large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:|`0.129s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |22 |:heavy_check_mark:|`0.115s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |23 |:heavy_check_mark:|`7.180s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |24 |:heavy_check_mark:|`0.101s`   |:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
